@@ -27,4 +27,7 @@ public class Display extends JFrame implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         // button logic if needed
     }
+
+    
 }
+

@@ -41,4 +41,6 @@ public class GameFrame extends JFrame {
         ((CardLayout) getContentPane().getLayout()).show(getContentPane(), "Battle");
         battlePanel.startBattle(chosenCharacter);
     }
+
+    
 }
